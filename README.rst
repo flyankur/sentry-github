@@ -25,6 +25,14 @@ disconnect and reconnect the account.
 
 You'll now see a new action on groups which allows quick creation of GitHub issues.
 
+Keep Rollin Rollin Rollin..
+---------------------------
+
+* Add group to existing github Issue. Associate group to base issue.
+* Suggest issues when adding group to existing issue.
+* Close Issue when group is resolved ( if there is an issue associated with group ).
+
+
 Caveats
 -------
 
