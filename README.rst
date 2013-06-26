@@ -31,7 +31,7 @@ Keep Rollin Rollin Rollin..
 * Add group to existing github Issue. Associate group to base issue.
 * Suggest issues when adding group to existing issue.
 * Close Issue when group is resolved ( if there is an issue associated with group ).
-
+* Related Article : https://github.com/getsentry/sentry-github/pull/5
 
 Caveats
 -------
